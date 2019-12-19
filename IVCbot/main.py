@@ -1,5 +1,4 @@
 from telegram.ext import Updater, MessageHandler, Filters
-import subprocess
 from config import *
 from cam_control.screenshot import *
 
